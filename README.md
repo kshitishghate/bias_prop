@@ -1,6 +1,6 @@
 # Bias In, Bias Out: Propagation of Representational Intersectional Social Group Bias to Zero-Shot Tasks in Vision-Language Models
 
-This repository contains the code and supporting data for the paper "Bias In, Bias Out: Propagation of Representational Intersectional Social Group Bias to Zero-Shot Tasks in Vision-Language Models".
+This repository contains the code and supporting data for the paper "Bias In, Bias Out: Propagation of Representational Intersectional Social Group Bias to Zero-Shot Tasks in Vision-Language Models". Code to be updated shortly.
 
 ## Abstract
 
@@ -19,11 +19,10 @@ The text templates will be added to this repository separately.
 
 ## Code
 
-The code for our experiments and analysis will be added to this repository separately. It includes scripts for:
-- Data preprocessing
+The code for our experiments and analysis will be added to this repository shortly. It will include scripts for:
+- Data preprocessing, and creation of the scaled CFD dataset.
 - Bias measurement using the single category-embedding association test (SC-EAT)
-- Intrinsic and extrinsic bias quantification
-- Correlation analysis between intrinsic and extrinsic biases
+- Intrinsic and extrinsic bias quantification and subsequent correlation analysis.
 
 ## Usage
 
